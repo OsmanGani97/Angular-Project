@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "VHuBo5lOfRu3eqJiob6Tb9OZsYCzakwC3PZC3qqW0+Y=",
+  "Source": "Osman_1281404",
+  "BasePath": "_content/Osman_1281404",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Osman_1281404\\wwwroot",
+      "Source": "Osman_1281404",
+      "ContentRoot": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\",
+      "BasePath": "_content/Osman_1281404",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "Osman_1281404",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\",
+      "BasePath": "_content/Osman_1281404",
+      "RelativePath": "Pictures/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\2.jpg",
+      "SourceId": "Osman_1281404",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\",
+      "BasePath": "_content/Osman_1281404",
+      "RelativePath": "Pictures/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\crhnyvyz.jpg",
+      "SourceId": "Osman_1281404",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\",
+      "BasePath": "_content/Osman_1281404",
+      "RelativePath": "Pictures/crhnyvyz.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\crhnyvyz.jpg"
+    }
+  ]
+}

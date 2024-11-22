@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Osman\\OneDrive\\Desktop\\Monthly-mid-9\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\crhnyvyz.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\crhnyvyz.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Osman_1281404.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Osman_1281404.props",
+      "PackagePath": "build\\Osman_1281404.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Osman_1281404.props",
+      "PackagePath": "buildMultiTargeting\\Osman_1281404.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Osman_1281404.props",
+      "PackagePath": "buildTransitive\\Osman_1281404.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
